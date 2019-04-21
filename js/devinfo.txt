@@ -1,0 +1,1 @@
+tutorial for js discord bot: https://blog.bitsrc.io/create-a-discord-bot-using-node-dc198817b1a
