@@ -32,7 +32,7 @@ module.exports = {
             }
             break;
           case "prefix":
-            
+// todo
             if (this.options.prefix.contains(prefix)) {
               this.options.
               retmess = ``
